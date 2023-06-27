@@ -10,7 +10,7 @@ At the end of the this hands-on training, students will be able to;
 
 - get familiar with Python Flask framework.
 
-- install Python and Flask framework on local
+- install Python and Flask framework on local.
 
 - build a simple web application with Python Flask framework.
 
